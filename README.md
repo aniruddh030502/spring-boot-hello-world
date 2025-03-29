@@ -1,5 +1,14 @@
 # Spring Boot Hello World
 
+***All tasks done
+Step1: Forking REPO
+Step2: Docker Build
+Step3: Kubernetes deployment running
+Step4:Kubernetes Service on NodePort running
+Step5:Scale in Scale out Deployments working
+Step6:Build with Jenkins Done.
+DONE***
+
 **A simple Spring Boot 2.x app to send hello world message to a user**
 
 ## How to Run Application
